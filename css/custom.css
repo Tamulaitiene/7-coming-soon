@@ -15,6 +15,7 @@
 /* CUSTOM STYLE BELOW THIS COMMENT LINE */
 
 .bg-primary {
+develop
   background-color: var(--primary-color);
 }
 
@@ -101,3 +102,10 @@ main .section-description > a:hover {
 }
 
 /* footer section */
+    background-color: var(--primary-color);
+}
+
+.bg-secondary {
+    background-color: var(--primary-color);
+}
+master
